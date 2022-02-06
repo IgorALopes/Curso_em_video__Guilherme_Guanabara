@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANNNBra</title>
+</head>
+<body>
+    <h1>ANNNBra - Aferidor de Nacionalidade Nacionalista Nacional Brasileira</h1>
+    País em que você nasceu: <input type="text" name="txtp" id="txtp">
+    <input type="button" value="Verificar" onclick="verif()">
+    <div id="res">
+
+    </div>
+    <script>
+        function verif() {
+            var txtpais = document.querySelector('input#txtp')
+            var res = document.querySelector('div#res')
+            var pais = txtpais.value.toUpperCase()
+            if (pais != 'BRASIL') {
+                res.innerHTML = `<p>Infelizmente, sua naturalidade é <strong>${pais}</strong> e não  Brasil, por tanto você é um(a) estrangeiro(a).</p>`
+            } else
+            res.innerHTML = `<p> Parabéns! Sua naturalidade é <strong>${pais}</strong>, por tanto você é brasileiro(a)</p>`
+        }
+    </script>
+    
+</body>
+<footer> </br>
+    <p><strong>Mais um programa do GOVERNO FEDERAL.</strong></p>
+</footer>
+</html>
