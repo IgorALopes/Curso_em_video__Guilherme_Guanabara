@@ -16,13 +16,11 @@ function contar() {
             window.alert('Passo inválido! Considerando PASSO igual a 1')
             p = 1
         }
-        if (i < t) {
-            // contagem crescente
-            for(let c = i; c <= t; c += p) {
+        if (i < t) { // contagem crescente            
+            for (let c = i; c <= t; c += p) {
                 res.innerHTML += ` ${c} \u{1F449}`
             }
-        } else {
-            //contagem regressiva
+        } else { //contagem regressiva       
             for (let c = i; c >= t; c -= p) {
                 res.innerHTML += ` ${c} \u{1F449}`
             }           
