@@ -87,3 +87,45 @@ Capítulo 17 aula 09 – Personalizando o topo
 Capítulo 17 aula 10 – Estilizando o Conteúdo
 Capítulo 17 aula 11 – Rodapé e Aside
 Capítulo 17 aula 12 – Vídeo Adaptável
+
+MÓDULO 3
+
+O que vamos aprender no M03
+Capítulo 18 Aula 1 – O que é Git e GitHub
+Capítulo 18 Aula 2 – Instalação
+Capítulo 18 Aula 3 – Criando uma conta GitHub
+Capítulo 18 Aula 4 – Primeiro Repositório
+Capítulo 18 Aula 5 – Gerenciando Repositórios
+Capítulo 18 Aula 6 – GitHub Pages
+Capítulo 18 Aula 7 – Manutenção em sites no GitHub
+Capítulo 18 Aula 8 – GitHub Social
+Capítulo 18 Aula 9 – Clonando Repositórios
+Capítulo 18 Aula 10 – GitHub em outro PC
+Capítulo 19 Aula 01 – Trabalhando com imagens de fundo
+Capítulo 19 Aula 02 – background-image
+Capítulo 19 Aula 03 – background-repeat
+Capítulo 19 Aula 04 – Background Position
+Capítulo 19 Aula 05 – background-size
+Capítulo 19 Aula 06 – background-attachment e shorthand
+Capítulo 19 Aula 07 – Centralização Vertical
+Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
+Capítulo 20 Aula 02 – Organizando os arquivos
+Capítulo 20 Aula 03 – Ajustando o HTML
+Capítulo 20 Aula 04 – Ajustando o Estilo
+Capítulo 20 Aula 05 – Aplicando as fontes
+Capítulo 20 Aula 06 – Imagens com efeito parallax
+Capítulo 20 Aula 07 – Hospedando o projeto cordel
+Capítulo 21 Aula 01 – Quando usar e não usar tabelas
+Capítulo 21 Aula 02 – Primeira Tabela em HTML
+Capítulo 21 Aula 03 – Alinhamento de conteúdos em tabelas
+Capítulo 21 Aula 04 – Anatomia de tabelas grandes
+Capítulo 21 Aula 05 – Caption e Escopo de títulos
+Capítulo 21 Aula 06 – Efeito Zebrado
+Capítulo 21 Aula 07 – Cabeçalho fixo para tabelas grandes
+Capítulo 21 Aula 08 – Mesclagem de células
+Capítulo 21 Aula 09 – Desafios (parte 1)
+Capítulo 21 Aula 10 – Exemplo de tabela completa
+Capítulo 21 Aula 11 – Escopos de grupo
+Capítulo 21 Aula 12 – Desafios (parte 2)
+Capítulo 21 Aula 13 – Agrupando Colunas com colgroup
+Capítulo 21 Aula 14 – Tabelas responsivas
