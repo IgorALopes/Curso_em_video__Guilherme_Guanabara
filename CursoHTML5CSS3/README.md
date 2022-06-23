@@ -1,6 +1,6 @@
 Este curso está dividido em 5 Módulos. Cada módulo tem 40 horas de aulas e um certificado para cada módulo. É necessário realizar um teste para se obter os certificados.
 
-Até o momento, no site do CursoemVídeo, há 3 módulos diponíveis. Os últimos ainda serão liberados.
+Até o momento, no site do CursoemVídeo, há 4 módulos diponíveis. O último ainda será liberado.
 
 MÓDULO 1:
 
