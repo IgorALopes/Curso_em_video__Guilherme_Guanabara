@@ -22,7 +22,7 @@ for c in range(1, 5):
 imed = sum(idadelist) / len(idadelist)
 print('A média de idade deste grupo de pessoas é de {:.1f} anos.'.format(imed))
 print('O homem com maior idade é {} e tem {} anos.'.format(nmaior, ihmaior))
-for f in range(len(sexolist)): # Percebi um erro na interpretação do enunciado e tive que ajustar o código, mas já havia visto a resolução. Estava utilizando listas como esta.
+for f in range(len(sexolist)): # Percebi um erro na interpretação do enunciado e tive que ajustar meu código, mas já havia visto a resolução. Estava utilizando listas como esta.
     if 'F' == sexolist[f] and idadelist[f] < 20:
         isexomenor += 1
 print('Há {} mulhere(s) com menos de 20 anos de idade.'.format(isexomenor))
